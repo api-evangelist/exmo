@@ -1,0 +1,32 @@
+aid: exmo
+name: EXMO
+description: "Cryptocurrencies exchange based in UK"
+url: https://documenter.getpostman.com/view/10287440/SzYXWKPi
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: EXMO
+    description: "Cryptocurrencies exchange based in UK"
+    humanURL: https://documenter.getpostman.com/view/10287440/SzYXWKPi
+    baseURL: https://documenter.getpostman.com/view/10287440/SzYXWKPi
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://documenter.getpostman.com/view/10287440/SzYXWKPi
+common:
+  - type: Website
+    url: https://documenter.getpostman.com/view/10287440/SzYXWKPi
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
