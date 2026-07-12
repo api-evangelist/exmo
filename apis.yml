@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://documenter.getpostman.com/view/10287440/SzYXWKPi
 common:
+  - type: VulnerabilityDisclosure
+    url: security/exmo-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/exmo-domain-security.yml
   - type: Website
     url: https://documenter.getpostman.com/view/10287440/SzYXWKPi
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://exmo.com/blog/en/news/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
