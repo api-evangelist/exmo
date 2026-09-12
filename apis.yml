@@ -51,7 +51,7 @@ common:
   - type: DomainSecurity
     url: security/exmo-domain-security.yml
   - type: Website
-    url: https://documenter.getpostman.com/view/10287440/SzYXWKPi
+    url: https://exmo.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
   - url: https://exmo.com/blog/en/news/
